@@ -1,4 +1,4 @@
-# 👋 Yo, I’m Simon
+# Yo, I’m Simon
 
 🎓 Currently studying computer science in University
 
