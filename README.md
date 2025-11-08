@@ -26,6 +26,10 @@
 
 ###
 
+<h3 align="left">🧩 Tools & languages</h3>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
