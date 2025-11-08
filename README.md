@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Currently studying Computer Science (Started 2024)<br><br>- Completed a DEC in Application Development (2021-2024)</p>
+<p align="left">- Currently studying Computer Science at university (Started 2024)<br><br>- Completed a DEC in IT and Application Development (2021-2024)</p>
 
 ###
 
