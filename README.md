@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🌱 Exploring</h3>
+<h3 align="left">🌱 Currently exploring</h3>
 
 ###
 
