@@ -10,22 +10,6 @@
 
 ###
 
-<h3 align="left">💻 Projects</h3>
-
-###
-
-<p align="left">- Started building an online trading card rating platform for Magic The Gathering.</p>
-
-###
-
-<h3 align="left">🌱 Currently exploring</h3>
-
-###
-
-<p align="left">- AWS cloud services</p>
-
-###
-
 <h3 align="left">🧩 Tools & languages</h3>
 
 ###
