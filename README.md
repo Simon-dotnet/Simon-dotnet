@@ -40,7 +40,7 @@
 ###
 ###
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Simon-dotnet&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Simon-dotnet&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Simon-dotnet&layout=donut&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Simon-dotnet&layout=donut&langs_count=5&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Simon-dotnet&layout=donut&langs_count=5&theme=dark&hide=shaderlab,hlsl)](https://github-stats-extended.vercel.app/api/top-langs?username=Simon-dotnet&layout=donut&langs_count=5&theme=dark&hide=shaderlab,hlsl)
 
 
 ###
