@@ -38,11 +38,10 @@
 </div>
 
 ###
+###
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Simon-dotnet&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Simon-dotnet&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Simon-dotnet&layout=donut&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Simon-dotnet&layout=donut&langs_count=5&theme=dark)
 
-<div align="center">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Simon-dotnet)](https://github.com/stats-organization/github-stats-extended)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-dotnet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&hide=ShaderLab,HLSL" height="150"  />
-</div>
 
 ###
 
